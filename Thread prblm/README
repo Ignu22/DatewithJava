@@ -1,0 +1,3 @@
+Thread can be implemented by
+1. Extend thread class 
+2. Implement Runnable Interface
