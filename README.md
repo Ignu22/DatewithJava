@@ -1,2 +1,3 @@
 # DatewithJava
-Exploring Java
+Exploring Java</br>
+Learning Java and exploring using git 
