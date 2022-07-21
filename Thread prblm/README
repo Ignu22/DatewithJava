@@ -1,0 +1,5 @@
+Thread can be implemented by
+1. Extend thread class : View in Master branch
+2. Implement Runnable Interface : View in feature branch
+
+The modified commit in feature branch show interface.
